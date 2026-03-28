@@ -37,6 +37,8 @@ A LPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 
 <img width="1280" height="912" alt="image" src="https://github.com/user-attachments/assets/a21c08ac-dbd5-44e0-bbac-7815057f0b74" />
 
+<img width="1918" height="972" alt="image" src="https://github.com/user-attachments/assets/909a538f-b92e-4369-8dc7-f965e9887c1e" />
+
 ## MODEL GRAPH
 <img width="913" height="559" alt="image" src="https://github.com/user-attachments/assets/c8d28c41-6f3e-44a6-a9da-2b798cf07346" />
 
@@ -76,6 +78,8 @@ PROCEDURE - (LPF):
 ## OUT PUT WAVEFORM AND DISCUSSION 
 <img width="1148" height="910" alt="image" src="https://github.com/user-attachments/assets/1b0dd3e2-abe1-4db8-bd9a-052752fa63f4" />
 
+<img width="1919" height="975" alt="image" src="https://github.com/user-attachments/assets/b46cd528-e963-43ff-becc-e8161ee9f1fb" />
+
 ---
 
  ## 6 B HIGH PASS FILTER
@@ -105,6 +109,8 @@ A HPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 <img width="887" height="486" alt="image" src="https://github.com/user-attachments/assets/907a1395-28d4-406f-ac09-96c4e060587e" />
 
 <img width="1280" height="1022" alt="image" src="https://github.com/user-attachments/assets/e24dbfb5-76be-4078-acce-2a67ef3c6676" />
+
+<img width="1918" height="1001" alt="image" src="https://github.com/user-attachments/assets/f67d1161-088a-4706-acea-2c15e5efcaa8" />
 
 ## MODEL GRAPH
 
@@ -145,6 +151,8 @@ PROCEDURE - ( HPF):
 ## OUT PUT WAVEFORM AND DISCUSSION 
 <img width="1088" height="830" alt="image" src="https://github.com/user-attachments/assets/6723166c-01b0-494b-af25-312bc852d72b" />
 
+<img width="1919" height="1010" alt="image" src="https://github.com/user-attachments/assets/3f775d31-f247-4979-8245-b5cb747b9756" />
+
 ---
 
  ## 6C Band Pass Filter
@@ -175,9 +183,12 @@ A BPF allows frequencies in between lower cut of frequency and higher cut of fre
 
 <img width="1280" height="857" alt="image" src="https://github.com/user-attachments/assets/4b8ecb6b-17cf-4b38-9c17-a3085bf4b0f2" />
 
+<img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/aa008628-a38b-43c5-bcb6-3083883d34c7" />
+
 ## MODEL GRAPH
 
 <img width="1055" height="537" alt="image" src="https://github.com/user-attachments/assets/f5eec55a-c00c-4eaf-a680-81ba95f66490" />
+
 
 
 ---
@@ -218,6 +229,8 @@ PROCEDURE:BAND PASS FILTER
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 <img width="1110" height="896" alt="image" src="https://github.com/user-attachments/assets/8e3e0af2-44bc-489f-b42e-47a7da9abf31" />
+
+<img width="1919" height="1007" alt="image" src="https://github.com/user-attachments/assets/268c0099-1ea1-46ed-8c70-4b41e82f67e9" />
 
 ---
 ##RESULT:
