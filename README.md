@@ -1,17 +1,10 @@
 # EX-NO-6-EXPERIMENTAL-VERIFICATION-AND-SIMULATION-OF-ACTIVELPF-HPF-AND-BPF
 ## 6 DESIGN OF ACTIVE LOW PASS, HIGH PASS AND BAND PASS FILTERS USING OP-AMP
-            
-**DATE:**  
-         
+
 ---
 
 ## AIM
-            
-**DATE:**  
-         
----
-
-## AIM and obtain the frequency response of
+ AIM and obtain the frequency response of
 
 i)	First order Low Pass Filter (LPF)
 ii)	First order High Pass Filter (HPF)
@@ -42,6 +35,7 @@ A LPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 ## CIRCUIT DIAGRAM
 <img width="836" height="455" alt="image" src="https://github.com/user-attachments/assets/e5181151-836f-4f80-8f56-53b23ff05c74" />
 
+<img width="1280" height="912" alt="image" src="https://github.com/user-attachments/assets/a21c08ac-dbd5-44e0-bbac-7815057f0b74" />
 
 ## MODEL GRAPH
 <img width="913" height="559" alt="image" src="https://github.com/user-attachments/assets/c8d28c41-6f3e-44a6-a9da-2b798cf07346" />
@@ -55,12 +49,11 @@ For n = 2, α (damping factor) = 1.414, Passband gain = Ao = 3 - α =3 – 1.414
 Transfer function of second order butterworth LPF as:
 1.586
  
-H(s) =
- 
-S2 + 1.414 s + 1
+H(s) = S2 + 1.414 s + 1
  
 Now	Ao = 1 + (Rf / R1) = 1.586 = 1 + 0.586
 Let Ri = 10 KΩ, then Rf = 5.86 KΩ
+<img width="1062" height="1054" alt="image" src="https://github.com/user-attachments/assets/13f50b70-d993-479c-8e92-b19fd0a3d373" />
 
 
 ## PROCEDURE
@@ -75,26 +68,13 @@ PROCEDURE - (LPF):
 
 
 ## TABULATION
-
-| S.No | Frequency (Hz) | Output Voltage (V) | Gain = 20 log (Vo/Vi) (dB) |
-|------|----------------|--------------------|-----------------------------|
-| 1    |                |                    |                             |
-| 2    |                |                    |                             |
-| 3    |                |                    |                             |
-| 4    |                |                    |                             |
-| 5    |                |                    |                             |
-| 6    |                |                    |                             |
-| 7    |                |                    |                             |
-| 8    |                |                    |                             |
-| 9    |                |                    |                             |
-| 10   |                |                    |                             |
-| 11   |                |                    |                             |
-| 12   |                |                    |                             |
-		
+<img width="1264" height="1064" alt="image" src="https://github.com/user-attachments/assets/af1be5b7-1c36-41c8-ac0e-a6f557572659" />
+	
 
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+<img width="1148" height="910" alt="image" src="https://github.com/user-attachments/assets/1b0dd3e2-abe1-4db8-bd9a-052752fa63f4" />
 
 ---
 
@@ -124,6 +104,7 @@ A HPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 
 <img width="887" height="486" alt="image" src="https://github.com/user-attachments/assets/907a1395-28d4-406f-ac09-96c4e060587e" />
 
+<img width="1280" height="1022" alt="image" src="https://github.com/user-attachments/assets/e24dbfb5-76be-4078-acce-2a67ef3c6676" />
 
 ## MODEL GRAPH
 
@@ -138,13 +119,12 @@ For n = 2, α (damping factor) = 1.414, Passband gain = Ao = 3 - α =3 – 1.414
 Transfer function of second order butterworth LPF as:
 1.586
  
-H(s) =
- 
-S2 + 1.414 s + 1
+H(s) =S2 + 1.414 s + 1
  
 Now	Ao = 1 + (Rf / R1) = 1.586 = 1 + 0.586
 Let Ri = 10 KΩ, then Rf = 5.86 KΩ
 
+<img width="1268" height="1148" alt="image" src="https://github.com/user-attachments/assets/18d60d7d-d7e7-4e00-9af7-2bcac8ea461c" />
 
 ## PROCEDURE
 
@@ -158,26 +138,12 @@ PROCEDURE - ( HPF):
 
 
 ## TABULATION
-
-		
-| S.No | Frequency (Hz) | Output Voltage (V) | Gain = 20 log (Vo/Vi) (dB) |
-|------|----------------|--------------------|-----------------------------|
-| 1    |                |                    |                             |
-| 2    |                |                    |                             |
-| 3    |                |                    |                             |
-| 4    |                |                    |                             |
-| 5    |                |                    |                             |
-| 6    |                |                    |                             |
-| 7    |                |                    |                             |
-| 8    |                |                    |                             |
-| 9    |                |                    |                             |
-| 10   |                |                    |                             |
-| 11   |                |                    |                             |
-| 12   |                |                    |                             |
+<img width="1275" height="1077" alt="image" src="https://github.com/user-attachments/assets/725f2375-c3fc-46de-abc6-8e67958eb358" />
 
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+<img width="1088" height="830" alt="image" src="https://github.com/user-attachments/assets/6723166c-01b0-494b-af25-312bc852d72b" />
 
 ---
 
@@ -207,6 +173,8 @@ A BPF allows frequencies in between lower cut of frequency and higher cut of fre
 
 <img width="1068" height="446" alt="image" src="https://github.com/user-attachments/assets/ee37b95a-05ea-448c-9102-111e071e41e8" />
 
+<img width="1280" height="857" alt="image" src="https://github.com/user-attachments/assets/4b8ecb6b-17cf-4b38-9c17-a3085bf4b0f2" />
+
 ## MODEL GRAPH
 
 <img width="1055" height="537" alt="image" src="https://github.com/user-attachments/assets/f5eec55a-c00c-4eaf-a680-81ba95f66490" />
@@ -228,6 +196,7 @@ Pass band Gain=4
 Now		Ao = 1 + (Rf / R1) 2-1=(Rf / Ri)
 Ri = Rf
 Let Ri = Rf = 10 KΩ
+<img width="995" height="1088" alt="image" src="https://github.com/user-attachments/assets/e6141c1e-0a40-425a-9523-fbc1aa43b9e7" />
 
 
 ## PROCEDURE
@@ -243,26 +212,12 @@ PROCEDURE:BAND PASS FILTER
 
 
 ## TABULATION
-
-		
-| S.No | Frequency (Hz) | Output Voltage (V) | Gain = 20 log (Vo/Vi) (dB) |
-|------|----------------|--------------------|-----------------------------|
-| 1    |                |                    |                             |
-| 2    |                |                    |                             |
-| 3    |                |                    |                             |
-| 4    |                |                    |                             |
-| 5    |                |                    |                             |
-| 6    |                |                    |                             |
-| 7    |                |                    |                             |
-| 8    |                |                    |                             |
-| 9    |                |                    |                             |
-| 10   |                |                    |                             |
-| 11   |                |                    |                             |
-| 12   |                |                    |                             |
+<img width="1032" height="824" alt="image" src="https://github.com/user-attachments/assets/22495a33-f269-4a44-b949-7ca0058fec5f" />
 
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+<img width="1110" height="896" alt="image" src="https://github.com/user-attachments/assets/8e3e0af2-44bc-489f-b42e-47a7da9abf31" />
 
 ---
 ##RESULT:
